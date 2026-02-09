@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 
 - 🔭 I'm currently pursuing Computer Science at NTU Singapore!
-- 🌱 I’m currently exploring my interests in Web Development, Data Science and Quantum Cryptography! 
-- 👯 I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: drop me an email on ananya.kapoor.1103@gmail.com
 
 <!--
