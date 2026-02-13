@@ -1,6 +1,6 @@
-### Hi there 
-- 🔭 I'm currently pursuing Computer Science at NTU Singapore!
-- 📫 How to reach me: drop me an email on ananya.kapoor.1103@gmail.com
+
+- Computer Science at NTU Singapore
+- ananya.kapoor.1103@gmail.com
 
 <!--
 **ananyakapoor12/ananyakapoor12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
