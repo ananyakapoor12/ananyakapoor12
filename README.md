@@ -151,10 +151,6 @@ Low-latency UDP-based distributed banking system with custom binary protocols an
 AI-powered search over **90K+ developer discussions** combining BM25, embedding-based semantic retrieval, and hybrid search on 69K+ indexed documents. Integrated sentiment analysis, NER, aspect extraction, and sarcasm detection.
 `Elasticsearch` `Sentence Transformers` `BM25` `NLP` `Python`
 
-### 📋 [Regulatory Intelligence Platform](https://github.com/ananyakapoor12)
-*(Deep Dive Labs internship)* LangChain + OpenAI RAG pipeline automating extraction and classification of compliance requirements from **180+ regulatory documents across 6 jurisdictions**.
-`LangChain` `OpenAI API` `RAG` `Semantic Retrieval`
-
 ### 🤖 [Autonomous Robot Pathfinding](https://github.com/weiizhxnng17/SC2079-2025-MDP-Grp22)
 Led a team of 8 to optimise pathfinding algorithms for autonomous robot navigation. Integrated turn-radius and obstacle-avoidance heuristics to reduce total route cost by **~25%** and improve traversal stability by **30%+**.
 `Algorithms` `Pathfinding` `Python` `Robotics` `Team Lead`
