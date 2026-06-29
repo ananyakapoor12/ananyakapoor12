@@ -20,11 +20,11 @@
 
 ### About me
 
-I'm an incoming **MS in Artificial Intelligence student at NTU Singapore** (Aug 2026), with a BComp in Computer Science with Honours (Highest Distinction) at 4.51/5.00. I love building things that sit at the boundary of disciplines — where AI meets biology, where machine learning meets markets, where distributed systems meet real-world constraints.
+I'm pursuing my **MS in Artificial Intelligence student at NTU Singapore** , with a BComp in Computer Science with Honours (Highest Distinction). I love building things that sit at the boundary of disciplines: where AI meets biology, where machine learning meets markets and where distributed systems meet real-world constraints.
 
 My work spans **LLM applications and RAG pipelines** for enterprise intelligence, **time-series forecasting** for operational decisions, **graph ML for cancer drug target discovery**, and **information retrieval systems** over massive document corpora. I'm drawn to problems where the data is messy, the stakes are real, and the solution requires more than off-the-shelf models.
 
-I'm particularly excited by the intersection of AI with **computational biology** (using ML to navigate drug discovery and disease networks), **quantitative finance** (building signal from unstructured data, regime detection, causal inference over market data), and **AI safety** (understanding where foundation models fail in high-stakes domains). Outside of code, I'm learning French and Spanish, and trained in Bharatnatyam — which, it turns out, teaches you a lot about precision under pressure.
+I'm particularly excited by the intersection of AI with **computational biology** , **quantitative finance** and **AI safety**. Outside of code, I'm learning French and Spanish, and trained in Bharatnatyam-which, it turns out, teaches you a lot about precision under pressure.
 
 ---
 
