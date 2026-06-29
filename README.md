@@ -161,16 +161,6 @@ Led a team of 8 to optimise pathfinding algorithms for autonomous robot navigati
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **Finalist** — Beyond Binary Hackathon, NTU Women in Tech 2026
-- 🏦 **Insight Program** — Morgan Stanley Sales, Trading and Investment Banking (invite-only, Aug 2024)
-- 🥈 **Finalist** — UBS × NTU Women in Tech Ideathon 2024
-- 🌏 **Sole NTU Representative** — Rice University Semester Exchange Program (competitive selection)
-- 🎓 **Honours (Highest Distinction)** — BComp CS, NTU Singapore · GPA 4.51/5.00
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -183,8 +173,3 @@ Led a team of 8 to optimise pathfinding algorithms for autonomous robot navigati
 </p>
 
 ---
-
-<p align="center">
-  <i>Open to AI/ML engineering, data science, and research roles from 2026 · Singapore and remote</i><br/>
-  <a href="mailto:ananya.kapoor.1103@gmail.com">ananya.kapoor.1103@gmail.com</a> · +65 9447 2400
-</p>
