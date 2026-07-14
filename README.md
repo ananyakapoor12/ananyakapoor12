@@ -143,6 +143,11 @@ I'm particularly excited by the intersection of AI with **computational biology*
 ML ranking framework using LightGBM, XGBoost, and network-science features to prioritize cancer drug targets across breast and prostate signaling networks. Identified **566 novel target combinations** with up to **86% Recall@1** for prostate cancer.
 `LightGBM` `XGBoost` `Graph ML` `Network Science` `Python`
 
+
+### 🏆 [Jump Trading Probability Cup]((https://github.com/ananyakapoor12/JumpTrading_ProbabilityCup_FifaWC2026)
+Developed quantitative probability models and algorithmic solutions for the Jump Trading Probability Cup, applying statistical reasoning, optimization techniques, and Python to solve challenging problems under competitive constraints for the Fifa World Cup 2026 prediction competition, held on SportsPredict.
+`Quantitative Modelling` `Probability` `Statistics` `Python` `ptimization Algorithms`
+
 ### 🏦 [Distributed Banking System](https://github.com/ananyakapoor12/Distributed_Banking_System)
 Low-latency UDP-based distributed banking system with custom binary protocols and at-most-once execution guarantees. Achieved **100% transaction consistency under 50% packet loss** via request deduplication and response caching.
 `Java` `UDP` `Distributed Systems` `Fault Tolerance`
