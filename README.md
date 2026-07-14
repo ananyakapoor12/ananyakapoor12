@@ -144,7 +144,7 @@ ML ranking framework using LightGBM, XGBoost, and network-science features to pr
 `LightGBM` `XGBoost` `Graph ML` `Network Science` `Python`
 
 
-### 🏆 [Jump Trading Probability Cup]((https://github.com/ananyakapoor12/JumpTrading_ProbabilityCup_FifaWC2026)
+### 🏆 [Jump Trading Probability Cup](https://github.com/ananyakapoor12/JumpTrading_ProbabilityCup_FifaWC2026)
 Developed quantitative probability models and algorithmic solutions for the Jump Trading Probability Cup, applying statistical reasoning, optimization techniques, and Python to solve challenging problems under competitive constraints for the Fifa World Cup 2026 prediction competition, held on SportsPredict.
 `Quantitative Modelling` `Probability` `Statistics` `Python` `ptimization Algorithms`
 
