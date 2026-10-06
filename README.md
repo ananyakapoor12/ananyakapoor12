@@ -20,7 +20,7 @@
 
 ### About me
 
-I'm pursuing my **MS in Artificial Intelligence student at NTU Singapore** , with a BComp in Computer Science with Honours (Highest Distinction). I love building things that sit at the boundary of disciplines: where AI meets biology, where machine learning meets markets and where distributed systems meet real-world constraints.
+I'm pursuing my **MS in Artificial Intelligence student at NTU Singapore** , with a Bachelor of Computing in Computer Science with Honours (Highest Distinction) from NTU SG. I love building things that sit at the boundary of disciplines: where AI meets biology, where machine learning meets markets and where distributed systems meet real-world constraints.
 
 My work spans **LLM applications and RAG pipelines** for enterprise intelligence, **time-series forecasting** for operational decisions, **graph ML for cancer drug target discovery**, and **information retrieval systems** over massive document corpora. I'm drawn to problems where the data is messy, the stakes are real, and the solution requires more than off-the-shelf models.
 
